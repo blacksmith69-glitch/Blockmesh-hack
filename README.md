@@ -1,5 +1,10 @@
 # BlockMesh AutoBot
 Automatic farming script for BlockMesh Network Extension using proxies
+### support my work through donation 
+Ton :- UQDX7xhxQeQCpsLjZN-oW7P2GqtTt5uzgJSNKZhJOVssUuOF
+
+telegram:- https://t.me/cryptowitharyanog
+
 ### Tools and components required
 1. BlockMesh Account | Register: [https://app.blockmesh.xyz/register](https://app.blockmesh.xyz/register?invite_code=edbf0e48-2e87-4bf2-96a9-4dc432f9dd7f)
 2. Proxies Static Residental | [FREE 10 PREMIUM PROXIES](https://www.webshare.io/?referral_code=p7k7whpdu2jg) | [Free 100 Premium Proxies](https://proxyscrape.com/?ref=odk1mmj) | Good Premium Proxies (paid): [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed), [proxy-cheap](https://app.proxy-cheap.com/r/JysUiH), [infatica](https://dashboard.infatica.io/aff.php?aff=544)
