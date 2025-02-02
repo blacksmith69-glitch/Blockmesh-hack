@@ -1,3 +1,7 @@
+install in termux or in Linux 
+
+
+
 requests
 colorama
 websocket
